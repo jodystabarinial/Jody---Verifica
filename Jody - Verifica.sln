@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jody - Verifica", "Jody - Verifica.csproj", "{EDF2D3EA-F473-4F73-9331-2EFCB390E78C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDF2D3EA-F473-4F73-9331-2EFCB390E78C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF2D3EA-F473-4F73-9331-2EFCB390E78C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF2D3EA-F473-4F73-9331-2EFCB390E78C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF2D3EA-F473-4F73-9331-2EFCB390E78C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A60D7B7B-DF01-48A0-BA8E-1DF9379A4F4C}
+	EndGlobalSection
+EndGlobal
